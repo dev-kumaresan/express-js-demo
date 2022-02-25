@@ -6,8 +6,8 @@
 (ii)set the path and create ```index.js``` file with code<br>
 (iii)Open the Terminal and type ```npm install express``` <br>
 (iv)To Run the script type, ```node index.js``` in the terminal<br>
-(v)Hit ```Enter``` button to proceed.<br>
+(v)Hit ```Enter``` button to proceed.
 <hr>
-(vi) Open the browser 
-(vii) Type ```localhost:3029\hi```  //Port number will be in your code
+(vi) Open the browser <br>
+(vii) Type ```localhost:3029\hi```  //Port number will be in your code <br>
 (viii) Hit ```Enter``` button to test the result.
