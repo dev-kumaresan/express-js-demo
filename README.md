@@ -8,6 +8,6 @@
 (iv) To Run the script type, ```node index.js``` in the terminal<br>
 (v) Hit ```Enter``` button to proceed.<br><br>
 <hr>
-* Open the browser <br>
-* Type ```localhost:3029\hi```  //Port number will be in your code<br>
-* Hit ```Enter``` button to test the result.
+<li> Open the browser 
+<li> Type ```localhost:3029\hi```  //Port number will be in your code
+<li> Hit ```Enter``` button to test the result.
